@@ -19,6 +19,17 @@ When I'm not coding, I’m usually tinkering with my Debian servers or tweaking 
 
 ---
 
+## 🔥 GitHub Streaks
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pm-dennis&theme=github-dark-blue">
+    <img alt="Dennis's Streak Badge" src="https://streak-stats.demolab.com?user=pm-dennis&theme=github-light">
+  </picture>
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🧠 Languages & Core Technologies
