@@ -4,7 +4,7 @@ I'm a full-stack developer who also does DevOps and pretty much everything aroun
 
 Clean and simple code matters to me. I try to write things that are easy to understand, easy to maintain, and don’t turn into a mess six months later. Always trying to learn, improve, and pick up new tools or ideas along the way.
 
-When I'm not coding, I’m usually tinkering with my Debian servers or my Arch setup (yes, I really use $${\color{blue}Arch}$$ 😄), watching anime, 3D printing and modeling, learning Japanese, hanging out with friends, or traveling. Japan is definitely my favorite place to explore, and I always get excited planning my next trip there ^^
+When I'm not coding, I’m usually tinkering with my Debian servers or tweaking my Arch Linux setup (yes, I use $${\color{blue}Arch}$$ btw 😄), watching anime, 3D printing and modeling, learning Japanese, hanging out with friends, or traveling. Japan is definitely my favorite place to explore, and I always get excited planning my next trip there ^^
 
 ---
 
