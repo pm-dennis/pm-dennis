@@ -86,8 +86,8 @@ When I'm not coding, I’m usually tinkering with my Debian servers or tweaking 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg" height="40" alt="shopware" />
   <img width="12" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/payloadcms/payload/main/packages/ui/src/assets/payload-favicon.svg">
-    <img height="40" alt="payload cms" src="https://raw.githubusercontent.com/payloadcms/payload/main/packages/ui/src/assets/payload-favicon-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://l4wlsi8vxy8hre4v.public.blob.vercel-storage.com/PayloadIconWhite.svg">
+    <img height="40" alt="payload cms" src="https://l4wlsi8vxy8hre4v.public.blob.vercel-storage.com/PayloadIconBlack.svg">
   </picture>
 </div>
 
