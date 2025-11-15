@@ -12,8 +12,8 @@ When I'm not coding, I’m usually tinkering with my Debian servers or tweaking 
 
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-llz3bikii-dennis-projects-ee174a5c.vercel.app/?username=pm-dennis&no-bg=true&margin-w=8&margin-h=8&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB&theme=onedark">
-    <img alt="Dennis's Top Languages" src="https://github-profile-trophy-llz3bikii-dennis-projects-ee174a5c.vercel.app/?username=pm-dennis&no-bg=true&margin-w=8&margin-h=8&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-llz3bikii-dennis-projects-ee174a5c.vercel.app/?username=pm-dennis&no-bg=true&margin-w=8&margin-h=8&row=2&column=6&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB&theme=onedark">
+    <img alt="Dennis's Top Languages" src="https://github-profile-trophy-llz3bikii-dennis-projects-ee174a5c.vercel.app/?username=pm-dennis&no-bg=true&margin-w=8&margin-h=8&row=2&column=6&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB">
   </picture>
 </div>
 
